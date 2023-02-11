@@ -7,8 +7,8 @@
         "Bot",
         "Anime"
     ],
-    "repository":"https://github.com/thetrueheavensequal/AS1",
-    "website":"https://github.com/thetrueheavensequal/AS1",
+    "repository":"https://github.com/thetrueheavensequal/anibot",
+    "website":"https://github.com/thetrueheavensequal/anibot",
     "success_url":"https://t.me/AniSageBot",
     "env":{
         "API_ID":{
