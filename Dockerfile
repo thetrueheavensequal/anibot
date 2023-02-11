@@ -1,6 +1,7 @@
 # We're using Debian Slim Buster image
 FROM python:3.10.10-slim-buster
 
+# Installing Required Packages
 RUN apt update && apt upgrade -y
 
 # Pypi package Repo upgrade
