@@ -3,16 +3,16 @@ from pyrogram import Client
 from aiohttp import ClientSession
 
 TRIGGERS = os.environ.get("TRIGGERS", "/ !").split()
-API_HASH = os.environ.get("API_HASH")
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
-BOT_NAME = os.environ.get("BOT_NAME")
-DB_URL = os.environ.get("DATABASE_URL")
-ANILIST_CLIENT = os.environ.get("ANILIST_CLIENT")
-ANILIST_SECRET = os.environ.get("ANILIST_SECRET")
+API_HASH = os.environ.get("API_HASH", "21927988")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "5935843924:AAFFKtQux1SvqNmt_bM0Ud1pe61q73tytZ8")
+BOT_NAME = os.environ.get("BOT_NAME", "AniSage")
+DB_URL = os.environ.get("DATABASE_URL", "")
+ANILIST_CLIENT = os.environ.get("ANILIST_CLIENT", "")
+ANILIST_SECRET = os.environ.get("ANILIST_SECRET", "")
 ANILIST_REDIRECT_URL = os.environ.get("ANILIST_REDIRECT_URL", "https://anilist.co/api/v2/oauth/pin")
-API_ID = int(os.environ.get("API_ID"))
-LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID"))
-OWNER = list(filter(lambda x: x, map(int, os.environ.get("OWNER_ID", "1005170481 804248372 1993696756").split())))  ## sudos can be included
+API_ID = int(os.environ.get("API_ID", "e18f720acdff1e5b0ec80616aecd8a5a"))
+LOG_CHANNEL_ID = int(os.environ.get("LOG_CHANNEL_ID", "-1001838981105"))
+OWNER = list(filter(lambda x: x, map(int, os.environ.get("OWNER_ID", "2064735436").split())))  ## sudos can be included
 
 DOWN_PATH = "anibot/downloads/"
 HELP_DICT = dict()
