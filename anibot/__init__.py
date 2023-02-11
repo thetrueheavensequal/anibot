@@ -18,8 +18,7 @@ DOWN_PATH = "anibot/downloads/"
 HELP_DICT = dict()
 
 session = ClientSession()
-plugins = dict(root="./plugins")
-anibot = Client("anibot", bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH, plugins=plugins)
+anibot = Client("anibot", bot_token=BOT_TOKEN, api_id=API_ID, api_hash=API_HASH, plugins='anibot/plugins')
 
 has_user: bool = False
 if os.environ.get('USER_SESSION'):
