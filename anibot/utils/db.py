@@ -1,4 +1,4 @@
-# below code is taken from USERGE-X repo
+
 # all credits to the respective author (dunno who wrote it will find later
 # n update)
 
