@@ -85,9 +85,7 @@ Telegram Bot Repo Capable of fetching the following Info via Anilist API inspire
 * AniList Api ([GitHub](https://github.com/AniList/ApiV2-GraphQL-Docs))
 * jikanpy ([GitHub](https://github.com/abhinavk99/jikanpy))
 * [@NotThatMF](https://t.me/notthatmf) for [chiaki fast api](https://chiaki.vercel.app/) and for creating base for this bot to work
-* [@DragSama](https://t.me/dragsama) on telegram for [tracemoepy](https://github.com/dragsama/tracemoepy) & [AniFluid-Base](https://github.com/DragSama/AniFluid-Base)
-* [@DeletedUser420](https://t.me/deleteduser420) on telegram for [USERGE-X](https://github.com/code-rgb/USERGE-X) & [Userge-Plugins](https://github.com/code-rgb/Userge-Plugins)
-* [Phyco-Ninja](https://github.com/Phyco-Ninja) as author of anilist plugin in Userge-Plugins repo
+* [@DragSama](https://t.me/dragsama) on telegram for [tracemoepy](https://github.com/dragsama/tracemoepy) & [AniFluid-* * [Base](https://github.com/DragSama/AniFluid-Base)
 * [@blank_x](https://t.me/blank_x) on tg for [sukuinote](https://gitlab.com/blank-x/sukuinote)
 
 
