@@ -1,4 +1,4 @@
-# base code was taken from @DeletedUser420's Userge-Plugins repo
+# base code was taken from @DeletedUser420
 # originally authored by Phyco-Ninja (https://github.com/Phyco-Ninja) (@PhycoNinja13b)
 # I've just tweaked his file a bit (maybe a lot)
 # But i sticked to the result format he used which looked cool
