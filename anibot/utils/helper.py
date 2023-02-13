@@ -32,7 +32,7 @@ CC = get_collection('CONNECTED_CHANNELS')
 USER_JSON = {}
 USER_WC = {}
 
-###### credits to @deleteduser420 on tg, code from USERGE-X ######
+###### credits to @deleteduser420 on tg
 
 
 def rand_key():
