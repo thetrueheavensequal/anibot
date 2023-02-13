@@ -1,5 +1,3 @@
-# The following code is exact (almost i mean) copy of 
-# reverse search taken from @DeletedUser420's Userge-Plugins repo
 # originally authored by
 # Phyco-Ninja (https://github.com/Phyco-Ninja) (@PhycoNinja13b)
 # but is in current state after DeletedUser420's edits
