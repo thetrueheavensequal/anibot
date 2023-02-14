@@ -5,7 +5,7 @@ from aiohttp import ClientSession
 TRIGGERS = os.environ.get("TRIGGERS", "/ !").split()
 API_HASH = os.environ.get("API_HASH", "e18f720acdff1e5b0ec80616aecd8a5a")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "5935843924:AAFFKtQux1SvqNmt_bM0Ud1pe61q73tytZ8")
-BOT_NAME = os.environ.get("BOT_NAME", "AniSage")
+BOT_NAME = os.environ.get("BOT_NAME", "AniSageBot")
 DB_URL = os.environ.get("DATABASE_URL", "mongodb://mongo:uxfcgIrcuHksaEZmMlZq@containers-us-west-176.railway.app:7233")
 ANILIST_CLIENT = os.environ.get("ANILIST_CLIENT", "11002")
 ANILIST_SECRET = os.environ.get("ANILIST_SECRET", "mWYa9xWRcsT04VkrdfVXfxsMc9CGlu9U8w3i9OoE")
